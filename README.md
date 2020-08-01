@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![y-jp's github stats](https://github-readme-stats.vercel.app/api?username=y-jp&theme=dracula)](http://y-jp.github.io/)
 <!--
 **y-jp/y-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
